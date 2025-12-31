@@ -1,0 +1,36 @@
+- sistem level
+sistem exp reset = level * 200
+1 chapter = 20 poin
+1 komen = 10 poin
+
+- sistem title
+level 10 = title pemula
+level 50 = title senior
+level 100 = title sepuh
+level 200 = title inti bumi
+
+- event 2x exp tiap hari besar
+
+fitur yang harus ditambahkan
+- jadwal rilis
+- level
+- leaderboard 
+  • level
+  • baca chapter terbanyak
+- event exp dan border
+- tambah source web lain
+
+dasboard admin
+- section komik 
+  • jumlah komik
+  • jumlah komik completed 
+  • jumlah komik ongoing
+- section user
+  • jumlah user
+  • jumlah chapter dibaca
+  • rata-rata level
+- route add/delete komik
+- route add/delete chapter
+- route add/delete news
+- route add/delete user
+- route add/delete information inbox tiap user
